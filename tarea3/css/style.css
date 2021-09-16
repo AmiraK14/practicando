@@ -1,0 +1,141 @@
+@font-face {
+    font-family: "Inter Medium 500";
+    src: url(../fuentes/Inter\ Medium\ 500.otf);
+ }
+
+ .barraCentral {
+     margin-left: 130px;
+     margin-right: 97px;
+ }
+
+ #primerBotonMenu {
+     color: #FE6400;
+     margin-left: 45px;
+ }
+
+ .botonesBarraNavegacion {
+     color:#6A6A6A;
+     font-family: "Inter Medium 500";
+     font-size: 13px;
+     float: right;
+     display: block;
+     padding: .5rem 1rem;
+     text-decoration: none;
+ }
+
+ .botonesBarraNavegacion:hover {
+     color:#FE6400;
+ }
+
+ h5 {
+     font-size: 35px;
+ }
+
+ .botonesSlide {
+     margin-bottom: 70px;
+     color:  #FE6400;
+     font-weight:bold;
+ }
+
+ #CuartoBotonSlide {
+     margin-bottom:30px;
+ }
+
+ .estiloTextoReel {
+     position: absolute;
+     right: 15%;
+     bottom: 1.25rem;
+     left:8%;
+     color: #fff;
+     margin-right: 300px;
+ }
+
+ .Calesita {
+     width: 85%;
+     margin-left: 90px;
+ }
+
+ .imagenReel {
+     border-radius: 15px;
+ }
+
+ .bordeRedondeadoSuperior{
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+ }
+
+ .margenBotonAnterior {
+     margin-left: 50px;
+ }
+
+ .margenBotonSiguiente {
+     margin-right: 60px;
+ }
+
+ .textoCentral {
+   color:#6A6A6A;
+   text-align: center;
+   font: normal 500 20px/1 "Inter Medium 500";
+   margin-bottom: 25px;
+ }
+
+ .formatoBotonesCards {
+   color:#6A6A6A;
+   text-decoration:none;
+   font: normal 500 13px/16px "Inter Medium 500";
+   margin-left: 15px;
+ }
+
+ .barraSuperior {
+   background-color: #EEEEEE;
+ }
+
+ .botonBarraSupSitios{
+   margin-left: 200px;
+   border-right: #6A6A6A solid 1px;
+ }
+
+ .barraBusqueda {
+   border-left: 100px;
+ }
+
+ .contenedorCuadro{
+   padding:50px 110px;
+ }
+
+ .contenedorInformacion {
+   padding:30px 30px 20px;
+   background-color: #f2f2f2;
+   border-radius: 12px;
+ }
+
+ .tituloInformacion{
+   text-align: left;
+ }
+
+ .itemsSeccionInfo {
+   background-color: #f2f2f2;
+   color:#6A6A6A;
+   font: normal 500 13px "Inter Medium 500";
+   padding: 15px;
+   border:1px solid #6A6A6A;
+ }
+
+ .botonInformacion {
+   text-decoration: none;
+   color:#6A6A6A;
+ }
+ 
+ .botonInformacion:hover {
+   color:#FE6400;
+ }
+
+ .contenedorCards {
+   margin-left: 90px;
+   margin-right: 90px;
+ }
+
+ .ultimoBotonCards {
+   margin-left:0px;
+   font: normal 500 12px/16px "Inter Medium 500";
+ }
