@@ -1,0 +1,38 @@
+{
+    "Titulo": "Personajes Harry Potter",
+    "Personaje": [
+        {
+            "Imagen":"imagenes/Harry.jpg",
+            "Nombre": "Harry Potter", 
+            "Casa": "Gryffindor",
+            "Mascota": "Hedwig",
+            "Varita": "Pluma fenix, roble",
+            "Materia favorita": "DDAA"
+        },
+        {
+            "Imagen":"imagenes/Hermione.jpg",
+            "Nombre": "Hermione Granger", 
+            "Casa": "Gryffindor",
+            "Mascota": "Crookshanks",
+            "Varita": "Arteria corazón dragón, abeto",
+            "Materia favorita": "Aritmonmancia/Transformaciones"
+        },
+        {
+            "Imagen":"imagenes/Ron.jpg",
+            "Nombre": "Ron Weasley", 
+            "Casa": "Gryffindor",
+            "Mascota": "Scabbers/Pigwidgeon",
+            "Varita": "Pelo unicornio, Sauce",
+            "Materia favorita": "Ninguna"
+        },
+        {
+            "Imagen":"imagenes/Draco.jpg",
+            "Nombre": "Draco Malfoy", 
+            "Casa": "Slytherin",
+            "Mascota": "No tiene",
+            "Varita": "Pelo unicornio, Sauce",
+            "Materia favorita": "Pociones"
+        }
+    ]
+    
+}
